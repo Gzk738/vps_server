@@ -205,7 +205,7 @@ uglyURLs = false
        post = "th"
     [[menu.main]]
         url = "/life/"
-        name = "文章"
+        name = "白日梦"
         weight = 4
         pre = "internal"
         post = "tags"
