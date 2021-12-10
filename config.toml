@@ -191,18 +191,18 @@ uglyURLs = false
     #     weight = 1
     #     pre = "internal"
     #     post = "home"
-    [[menu.main]]
+#     [[menu.main]]
     #    url = "/posts/"
     #    name = "文章"
-        weight = 2
+#         weight = 2
     #    pre = "internal"
     #    post = "archive"
-    #[[menu.main]]
-    #    url = "/tech/"
-     #   name = "技术"
-    #    weight = 3
-     #   pre = "internal"
-     #   post = "th"
+    [[menu.main]]
+       url = "/tech/"
+       name = "博客"
+       weight = 3
+       pre = "internal"
+       post = "th"
     [[menu.main]]
         url = "/life/"
         name = "文章"
