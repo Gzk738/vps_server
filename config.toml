@@ -1,12 +1,12 @@
 ##########################################
 # 站点配置
-
-baseURL = "https://example.com/"
-title = "즈쿤"
+#baseURL = "https://example.com/"
+#baseURL = "https://gzk738.github.io/website/"
+title = "자곤"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+copyright = "Copyright Hugo"
 
 # 主题选择
 theme = "meme"
@@ -89,24 +89,20 @@ uglyURLs = false
         endLevel = 6
         ordered = true
 
-# 压缩 HTML
-[minify.tdewolff.html]
-    keepWhitespace = false
-
 # 作者信息
 [author]
     # 名字
-    name = "gzk"
+    name = "자곤"
     # 邮箱
     email = "gzk798412226@gmail.com"
     # 座右铭或简介
-    motto = "吃喜欢的东西，胖并短暂的活着"
+    motto = "hello world"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://gzk738.github.io/website/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "gzk"
 
 # 相关文章
 [related]
@@ -177,7 +173,7 @@ uglyURLs = false
 # 4. links      链接栏（关于页面的极简页脚）
 
 # 菜单内的配置说明如下：
-# pageref/url   内链地址/外链地址
+# url           链接地址
 # name          文本（留空（""）则无）
 # weight        位置
 # pre           内链（internal）或外链（external）
@@ -190,19 +186,31 @@ uglyURLs = false
 [menu]
     ## 菜单栏
     # [[menu.main]]
-    #     pageref = "/"
+    #     url = "/"
     #     name = "首页"
     #     weight = 1
     #     pre = "internal"
     #     post = "home"
     [[menu.main]]
-        pageref = "/posts/"
-        name = "文章"
+    #    url = "/posts/"
+    #    name = "文章"
         weight = 2
-        pre = "internal"
-        post = "archive"
+    #    pre = "internal"
+    #    post = "archive"
+    #[[menu.main]]
+    #    url = "/tech/"
+     #   name = "技术"
+    #    weight = 3
+     #   pre = "internal"
+     #   post = "th"
     [[menu.main]]
-        pageref = "/about/"
+        url = "/life/"
+        name = "文章"
+        weight = 4
+        pre = "internal"
+        post = "tags"
+    [[menu.main]]
+        url = "/about/"
         name = "关于"
         weight = 5
         pre = "internal"
@@ -297,11 +305,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = ["我希望你读很多书", "走很远的路"," 我希望你爱很多人","也被很多人爱。 我希望你走过人山人海","也遍览山河湖海","我希望你看纸质书","送手写的祝福"," 我要你独立坚强温暖明亮","我要你在这寡淡的世上","深情的活"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -326,16 +334,16 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "这是자곤的生活与技术博客"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "1996-07-20T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    siteTwitter = "gzk"
     # 说明：用于 Twitter Cards
 
 
@@ -449,7 +457,7 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    # mainSections = ["posts"]
+    mainSections = ["tags", "catgoris"]
 
 
     ######################################
@@ -899,11 +907,6 @@ uglyURLs = false
 
 
     ######################################
-    # 滚动条
-    customizeScrollbar = true
-
-
-    ######################################
     # 字体排版
 
     ######################################
@@ -1144,7 +1147,7 @@ uglyURLs = false
     # 文章的标签
 
     # 是否开启
-    enablePostTags = true
+    enablePostTags = false
 
     # 标签的图标
     postTagsIcon = "tag"
@@ -1212,7 +1215,6 @@ uglyURLs = false
     # 是否在首页显示
     displayFooterInHome = true
 
-    displayCopyleftSymbol = false
     # 是否显示版权符号（©）
     displayCopyrightSymbol = true
 
@@ -1227,7 +1229,7 @@ uglyURLs = false
     iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     # 是否显示站点的版权信息
     displaySiteCopyright = true
