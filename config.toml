@@ -2,7 +2,7 @@
 # 站点配置
 #baseURL = "https://example.com/"
 #baseURL = "https://gzk738.github.io/website/"
-title = "자곤"
+title = "즈쿤"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
