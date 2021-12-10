@@ -202,18 +202,6 @@ uglyURLs = false
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        pageref = "/categories/"
-        name = "分类"
-        weight = 3
-        pre = "internal"
-        post = "th"
-    [[menu.main]]
-        pageref = "/tags/"
-        name = "标签"
-        weight = 4
-        pre = "internal"
-        post = "tags"
-    [[menu.main]]
         pageref = "/about/"
         name = "关于"
         weight = 5
