@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>즈쿤</title>
+        <link>/</link>
+        <description>这是자곤的生活与技术博客</description>
+        <generator>Hugo 0.80.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>gzk798412226@gmail.com (자곤)</managingEditor>
+        
+        
+            <webMaster>gzk798412226@gmail.com (자곤)</webMaster>
+        
+        
+            <copyright>Copyright Hugo</copyright>
+        
+        <lastBuildDate>Fri, 10 Dec 2021 12:14:23 &#43;0000</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="/rss.xml" />
+        
+        
+    </channel>
+</rss>
