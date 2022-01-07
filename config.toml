@@ -205,7 +205,7 @@ uglyURLs = false
        post = "home"
     [[menu.main]]
        url = "/journal/"
-       name = "journal club"
+       name = "journal"
        weight = 3
        pre = "internal"
        post = "archive"
