@@ -18,6 +18,8 @@ draft: true
 
 如果你发现了网站的错误、bug、或者有什么意见和建议的话，欢迎联系我：gzk798412226@gmail.com 我会非常感激的。
 
+
 ![2022-01-07-22-50-05](/static/images/2022-01-07-22-50-05.png)
 {{- $image := resources.Get "images/2022-01-07-22-50-05.png" -}}
 ![20220107231914](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220107231914.png)
+
