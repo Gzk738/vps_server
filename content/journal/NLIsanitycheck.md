@@ -1,5 +1,5 @@
 ---
-title: "NLI Sanity check"
+title: "NLI Data Sanity Check: Assessing the Effect of Data Corruption on Model Performance"
 date: 2022-01-07T23:58:17+09:00
 draft: true
 ---
