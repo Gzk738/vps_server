@@ -20,3 +20,4 @@ draft: true
 
 ![2022-01-07-22-50-05](/static/images/2022-01-07-22-50-05.png)
 {{- $image := resources.Get "images/2022-01-07-22-50-05.png" -}}
+![20220107231914](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220107231914.png)
