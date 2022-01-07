@@ -199,31 +199,31 @@ uglyURLs = false
     #    post = "archive"
     [[menu.main]]
        url = "/xai/"
-       name = "xai"
+       name = "XAI"
        weight = 3
        pre = "internal"
        post = "home"
     [[menu.main]]
        url = "/journal/"
-       name = "journal"
+       name = "Journal"
        weight = 3
        pre = "internal"
        post = "archive"
     [[menu.main]]
        url = "/tech/"
-       name = "tech"
+       name = "Tech"
        weight = 3
        pre = "internal"
        post = "th"
     [[menu.main]]
         url = "/life/"
-        name = "life"
+        name = "Life"
         weight = 4
         pre = "internal"
         post = "tags"
     [[menu.main]]
         url = "/about/"
-        name = "关于"
+        name = "About"
         weight = 5
         pre = "internal"
         post = "user-circle"
