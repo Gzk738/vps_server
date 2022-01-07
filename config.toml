@@ -198,14 +198,20 @@ uglyURLs = false
     #    pre = "internal"
     #    post = "archive"
     [[menu.main]]
+       url = "/journal club/"
+       name = "journal club"
+       weight = 3
+       pre = "internal"
+       post = "archive"
+    [[menu.main]]
        url = "/tech/"
-       name = "博客"
+       name = "tech"
        weight = 3
        pre = "internal"
        post = "th"
     [[menu.main]]
         url = "/life/"
-        name = "技术"
+        name = "life"
         weight = 4
         pre = "internal"
         post = "tags"
