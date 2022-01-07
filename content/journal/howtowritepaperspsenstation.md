@@ -18,8 +18,6 @@ draft: true
 ![20220108001900](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220108001900.png)
 ![20220108002034](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220108002034.png)
 ![20220108002042](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220108002042.png)
-
-![20220108002128](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220108002128.png)
 ![20220108002147](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220108002147.png)
 ![20220108002155](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220108002155.png)
 ![20220108002203](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220108002203.png)
