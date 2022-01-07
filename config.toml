@@ -198,6 +198,12 @@ uglyURLs = false
     #    pre = "internal"
     #    post = "archive"
     [[menu.main]]
+       url = "/xai/"
+       name = "xai"
+       weight = 3
+       pre = "internal"
+       post = "home"
+    [[menu.main]]
        url = "/journal club/"
        name = "journal club"
        weight = 3
