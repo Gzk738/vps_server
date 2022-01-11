@@ -44,3 +44,5 @@ hugo server -D --bind=xxx.xxx.xxx.xxx --port=xxx
 
 ## 图床的选择
 最开始使用的是[图床:ImgURL](https://imgurl.org/)但是没找到方法一键生成，这给写作带来极大得麻烦。后来发现了github也可以当作图床使用：
+首先下载picgo
+![20220111153546](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111153546.png)
