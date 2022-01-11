@@ -44,9 +44,9 @@ Through the test records of the model, we can obtain a large number of test reco
     label.append(f1_score.index(max(f1_score)))
     
  ```
- train data : Probability changes in the interpretation process
+ Training data : Probability changes in the interpretation process
 
- label : index of highest f1 score
+ Label : index of highest f1 score
 
  model type : Multiclass Model (10 categories, since the number of explanations is 10, predict the index with the highest f1 value based on the probability change)
 
@@ -58,8 +58,68 @@ Through the test records of the model, we can obtain a large number of test reco
     torch.nn.Linear(500, 11),
 )
  ```
+
+## Unbalanced Data
+
+![20220111213059](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111213059.png)
+<center>initial state, accuracy = 0.95%</center>
+
+![20220111213219](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111213219.png)
+<center>initial state, accuracy = 92.7592%</center>
+
+Although the accuracy is high, the test has no effect because 99% of the labels in the data are 0
+```python
+print(f1)
+$[[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666,
+  0.6666666666666666],
+ [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5],
+ [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+ [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5],
+ [0.2222222222222222, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]...
+ 
+```
+## Balanced Data
+
+
  ![20220111211450](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111211450.png)
 <center>initial state, accuracy = 0.95%</center>
 
  ![20220111211711](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111211711.png)
 <center>data : 300, accuracy : 0.95->27.8%</center>
+
+## Possible reasons for this situation
+1.Not enough data  (only 300data) 
+
+solution : test more dataset and collect more data
+
+2.The exp data  random data without features, and the model cannot find useful features.
+
+solution : We need to prove that explainable AI is a regular technique or use some mathematical method 
+to prove that the data is not random data
