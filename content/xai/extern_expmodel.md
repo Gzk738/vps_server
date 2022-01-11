@@ -32,3 +32,34 @@ Not very helpful for model performance.
 
 The remaining few methods are not expected to improve much
 # Extern Seletion model
+Through the test records of the model, we can obtain a large number of test records, including: changes in probability and changes in f1. Among them, the label of the data we manually
+ add the highest f1 value index:
+ ```python
+ """f1_score = 
+ [[1,1,1,1,1,1,1,1,1,1],
+ [0.8,0.8,0.8,1,1,1,0.5,0.5,0.5],
+ [0,0,0,0,0,0.5,1,1,1,1,1]]
+ ..."""
+ for i in f1_score:
+    label.append(f1_score.index(max(f1_score)))
+    
+ ```
+ train data : Probability changes in the interpretation process
+
+ label : index of highest f1 score
+
+ model type : Multiclass Model (10 categories, since the number of explanations is 10, predict the index with the highest f1 value based on the probability change)
+
+ ## MODEL
+ ```python
+ net = torch.nn.Sequential(
+    torch.nn.Linear(2, 500),
+    torch.nn.ReLU(),
+    torch.nn.Linear(500, 11),
+)
+ ```
+ ![20220111211450](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111211450.png)
+<center>initial state, accuracy = 0.95%</center>
+
+ ![20220111211711](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111211711.png)
+<center>data : 300, accuracy : 0.95->27.8%</center>
