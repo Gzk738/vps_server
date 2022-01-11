@@ -46,3 +46,15 @@ hugo server -D --bind=xxx.xxx.xxx.xxx --port=xxx
 最开始使用的是[图床:ImgURL](https://imgurl.org/)但是没找到方法一键生成，这给写作带来极大得麻烦。后来发现了github也可以当作图床使用：
 首先下载picgo
 ![20220111153546](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111153546.png)
+
+### github设置
+创建一个新的库，或者放在你blog的库里，我新建了一个库：
+![20220111154049](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111154049.png)
+创建token权限能够自由push和pull图片
+![20220111154319](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111154319.png)
+这里只需要添加图中的在这几个选项就可以。其他的不用管
+
+一切设置完后，就可以自由的粘贴图片了，github速度非常快，就是不知道国内会咋样？
+
+快捷键：
+![20220111154449](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111154449.png)
