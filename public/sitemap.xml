@@ -1,53 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/life/</loc>
-    <lastmod>2021-12-10T12:14:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/life/%E6%A2%A6%E5%9B%9E%E9%87%9C%E5%B1%B11/</loc>
-    <lastmod>2021-12-10T12:14:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-12-10T12:14:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/life/%E7%9F%BF%E5%B7%A5/</loc>
-    <lastmod>2021-12-10T11:12:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/life/%E7%A7%91%E5%AD%A6vs%E5%AE%97%E6%95%99/</loc>
-    <lastmod>2021-12-10T11:12:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2021-12-10T11:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tech/</loc>
-    <lastmod>2021-12-10T11:40:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tech/%E7%AC%94%E8%AE%B0%E5%92%8Cdoc/</loc>
-    <lastmod>2021-12-10T11:40:51+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/</loc>
   </url>
-  
 </urlset>
