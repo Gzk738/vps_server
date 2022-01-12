@@ -9,7 +9,7 @@ last week I proposed a new method to extern the text and delete text:
 Calulate the average of the contribution of sentences rather than sum of all 
 tokenziers. 
 
-![20220111201534](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111201534.png)
+
 # Result
 
 It will take a long time for test all data so I just test half test (1000 data)
@@ -107,11 +107,12 @@ $[[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
 ```
 ## Balanced Data
 
+![20220112112417](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220112112417.png)
 
- ![20220111211450](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111211450.png)
 <center>initial state, accuracy = 0.95%</center>
 
- ![20220111211711](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220111211711.png)
+![20220112112402](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220112112402.png)
+
 <center>data : 300, accuracy : 0.95->27.8%</center>
 
 ## Possible reasons for this situation
@@ -123,3 +124,5 @@ solution : test more dataset and collect more data
 
 solution : We need to prove that explainable AI is a regular technique or use some mathematical method 
 to prove that the data is not random data
+
+![20220112112505](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220112112505.png)
