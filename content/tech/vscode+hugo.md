@@ -41,7 +41,7 @@ Screen -S screenID -X quit
 
 编写完blog以后，直接进入screen：
 ```
-hugo server -D --bind=xxx.xxx.xxx.xxx --port=xxx
+hugo server -D --bind=0.0.0.0 --port=8888
 ```
 然后后台这个screen，尽情编写blog吧，当文件被重写的时候，hugo会自动编译并重启server
 
