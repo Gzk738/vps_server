@@ -1,5 +1,5 @@
 ---
-title: "关于QT移植安卓"
+title: "QT ---> Android"
 date: 2021-12-07T13:17:32Z
 draft: true
 ---
