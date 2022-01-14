@@ -4,6 +4,16 @@ date: 2021-05-08T08:39:24Z
 draft: true
 ---
 常用命令，记录一下
+# Video
+```html
+web = https://www.youtube.com/watch?v=K9_VFxzCuQ0&list=RDMMK9_VFxzCuQ0&start_radio=1
+ID = K9_VFxzCuQ0
+{{ youtube ID}}
+```
+{{< youtube K9_VFxzCuQ0 >}}
+
+{{ bilibili BV13U4y1Y7uT}}
+
 # Images
 ```html
 $ Ctri + Alt + U
@@ -32,3 +42,27 @@ class HelloWorld {
 }  
 ```
 
+# Align left
+```html
+<p align="left">--致所有漂泊的人</p>
+```
+
+# Blanck row
+```
+1 #+空格 
+
+2 &nbsp;
+
+3 <br/> 
+```
+Blanck row
+
+#
+
+Blanck row
+&nbsp; 
+Blanck row
+<br/> 
+Blanck row
+
+Blanck row
