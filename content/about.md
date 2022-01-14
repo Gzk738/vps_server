@@ -3,6 +3,11 @@ title: "About"
 date: 2021-05-11T22:43:59+09:00
 draft: true
 ---
+
+
+
+
+
 <h1 align = "center">关于</h1>
 你好，我是铅笔与橡皮，欢迎你来到我的网站。
 
@@ -15,4 +20,15 @@ kitty、sugar她们的传奇故事，请不要怀疑我在从事什么不正当�
 
 我很懒，喜欢把东西放在一个地方，东西总是乱扔，导致我弄丢了很多重要的东西，于是乎在朋友的推荐下搭了这个网站用来存储（[点击这里，你也可以](http://52.15.162.233:8888/tech/vscode+hugo/)）。我希望这样可以有所积累和沉淀。
 
-如果你发现了网站的错误、bug、或者有什么意见和建议的话，欢迎联系我：gzk798412226@gmail.com 我会非常感激的。
+
+
+本站使用Github持续更新，使用[hugo](https://gohugo.io/)搭建，
+[AWS](https://aws.amazon.com/cn/free/?trk=ps_a134p000003yHYmAAM&trkCampaign=acq_paid_search_brand&sc_channel=PS&sc_campaign=acquisition_KR&sc_publisher=Google&sc_category=Core-Main&sc_country=KR&sc_geo=APAC&sc_outcome=acq&sc_detail=aws&sc_content=Brand_Core_aws_e&sc_segment=444218215904&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|KR|EN|Text&s_kwcid=AL!4422!3!444218215904!e!!g!!aws&ef_id=CjwKCAiA24SPBhB0EiwAjBgkhuHDYP-3KokehdAgAaZW5Tl5Rq-BnceZxB5LkpGogp194qCaq8IYJxoC3MUQAvD_BwE:G:s&s_kwcid=AL!4422!3!444218215904!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)部署，
+主题为[MemE](https://github.com/reuixiy/hugo-theme-meme.git)，源码在Github开源。如果您发现了网站的任何错误、bug、亦或有任何意见建议的话，欢迎联系我：gzk798412226@gmail.com 或直接
+在[这里](https://github.com/Gzk738/vps_server.git)提交issues
+
+在此感谢~
+
+
+
+{{< youtube K9_VFxzCuQ0 >}}

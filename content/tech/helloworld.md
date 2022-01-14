@@ -42,10 +42,24 @@ class HelloWorld {
 }  
 ```
 
-# Align left
+# Align
 ```html
-<p align="left">--致所有漂泊的人</p>
+<h1 align = "right">你好</h1>
 ```
+
+<h1 align = "right">你好</h1>
+
+```html
+<h1 align = "left">你好</h1>
+```
+
+<h1 align = "left">你好</h1>
+
+```html
+<h1 align = "center">你好</h1>
+```
+
+<h1 align = "center">你好</h1>
 
 # Blanck row
 ```
@@ -66,3 +80,5 @@ Blanck row
 Blanck row
 
 Blanck row
+
+<h1 align = "right">关于</h1>
