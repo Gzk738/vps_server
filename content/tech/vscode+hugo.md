@@ -1,5 +1,5 @@
 ---
-title: "Vscode+hugo+picgo+vps的个人blog搭建记录"
+title: "Vscode+hugo+picgo+vps"
 date: 2022-01-04T06:37:55Z
 draft: true
 ---
@@ -36,7 +36,7 @@ screen -r screen_id
 
 但是有些时候进程卡死无法进入screen进行exit的时候，可以指定杀死进程：
 ```
-Screen -S screenID -X quit
+screen -S screenID -X quit
 ```
 
 编写完blog以后，直接进入screen：

@@ -6,7 +6,7 @@ title = "铅笔与橡皮"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "在保留本文作者及本文链接的前提下，非商业用途随意转载分享。"
+copyright = "copyright hugo"
 
 # 主题选择
 theme = "meme"
@@ -31,7 +31,7 @@ enableEmoji = false
 footnoteReturnLinkContents = "↩"
 
 # 是否启用 Git 版本信息
-enableGitInfo = false
+enableGitInfo = true
 
 # 是否生成 robots.txt 文件
 enableRobotsTXT = true
@@ -351,7 +351,7 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1997-07-20T20:17:43+00:00"
+    siteCreatedTime = "1996-10-01T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
@@ -667,13 +667,13 @@ uglyURLs = false
 
     # 说明：仅在生产环境（production）下渲染
 
-    enableGoogleAnalytics = false
+    enableGoogleAnalytics = true
 
     # 跟踪代码的类型
     trackingCodeType = "gtag"
     # 说明：gtag 或 analytics
 
-    trackingID = ""
+    trackingID = "G-DHN9LCYBT6"
 
 
     ######################################
@@ -690,10 +690,10 @@ uglyURLs = false
     googleAdClient = ""
 
     ## 自动广告
-    enableGoogleAutoAds = false
+    enableGoogleAutoAds = true
 
     ## 广告单元
-    enableGoogleAdUnits = false
+    enableGoogleAdUnits = true
     googleAdSlot = ""
 
 
@@ -1123,7 +1123,7 @@ uglyURLs = false
     # 说明：文章的 Front Matter 中的 `share`
     #      的优先级高于此处
 
-    displayShareOnText = false
+    displayShareOnText = true
 
     shareOnTwitter = true
     shareOnFacebook = true
