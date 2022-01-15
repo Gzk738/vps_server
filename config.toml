@@ -1,7 +1,6 @@
 ##########################################
 # 站点配置
-#baseURL = "https://example.com/"
-#baseURL = "https://gzk738.github.io/website/"
+baseURL = "https://guozikun.xyz/"
 title = "铅笔与橡皮"
 languageCode = "zh-CN"
 hasCJKLanguage = true

@@ -2,6 +2,7 @@
 title: "Helloworld"
 date: 2021-05-08T08:39:24Z
 draft: true
+tags : [helloworld]
 ---
 常用命令，记录一下
 # Video

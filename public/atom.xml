@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">铅笔与橡皮</title>
     <subtitle type="html">这是자곤的生活与技术博客</subtitle>
-    <updated>2022-01-14T16:59:32&#43;00:00</updated>
-    <id>/</id>
-    <link rel="alternate" type="text/html" href="/" />
-    <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
+    <updated>2022-01-15T04:26:22&#43;00:00</updated>
+    <id>https://guozikun.xyz/</id>
+    <link rel="alternate" type="text/html" href="https://guozikun.xyz/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://guozikun.xyz/atom.xml" />
     <author>
             <name>铅笔与橡皮</name>
-            <uri>/</uri>
+            <uri>https://guozikun.xyz/</uri>
             
                 <email>gzk798412226@gmail.com</email>
             </author>
