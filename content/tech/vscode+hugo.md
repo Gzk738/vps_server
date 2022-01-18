@@ -1,5 +1,5 @@
 ---
-title: "Vscode+hugo+picgo+vps"
+title: "如何方便快捷的在vps上进行开发"
 date: 2022-01-04T06:37:55Z
 draft: true
 ---

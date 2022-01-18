@@ -1,5 +1,5 @@
 ---
-title: "Caddy+NameSoil"
+title: "购买域名以及使用caddy部署网站"
 date: 2022-01-14T15:28:45Z
 draft: true
 ---

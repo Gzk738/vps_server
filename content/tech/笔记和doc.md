@@ -1,5 +1,5 @@
 ---
-title: "XAI and Artificial Intelligence"
+title: "我的XAI发表以及笔记"
 date: 2021-05-08T22:43:13+09:00
 draft: true
 ---
