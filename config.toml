@@ -30,7 +30,7 @@ enableEmoji = false
 footnoteReturnLinkContents = "↩"
 
 # 是否启用 Git 版本信息
-enableGitInfo = true
+enableGitInfo = false
 
 # 是否生成 robots.txt 文件
 enableRobotsTXT = true
@@ -95,11 +95,11 @@ uglyURLs = false
     # 邮箱
     email = "gzk798412226@gmail.com"
     # 座右铭或简介
-    motto = "hello world"
+    motto = "HelloWorld"
     # 头像
-    avatar = "/icons/apple-touch-icon.png"
+    avatar = "![20220123210306](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220123210306.png)"
     # 网站（默认值：baseURL）
-    website = "https://gzk738.github.io/website/"
+    website = "guozikun.xyz"
     # 推特
     twitter = "铅笔与橡皮"
 
