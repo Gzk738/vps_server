@@ -10,7 +10,7 @@
         <title>铅笔与橡皮</title>
         <link>https://guozikun.xyz/</link>
         <description>这是자곤的生活与技术博客</description>
-        <generator>Hugo 0.91.2 https://gohugo.io/</generator>
+        <generator>Hugo 0.92.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>copyright hugo</copyright>
         
-        <lastBuildDate>Wed, 26 Jan 2022 14:38:11 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 22:19:03 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://guozikun.xyz/rss.xml" />
         

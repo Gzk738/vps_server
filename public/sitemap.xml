@@ -2,95 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://guozikun.xyz/tech/</loc>
-    <lastmod>2022-01-24T14:55:41+08:00</lastmod>
+    <loc>https://guozikun.xyz/tech/linux_common_cmd/</loc>
+    <lastmod>2022-01-27T22:19:01+08:00</lastmod>
   </url><url>
-    <loc>https://guozikun.xyz/tech/linux%E5%B9%B3%E5%8F%B0%E4%B8%8Bgpu%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2022-01-24T14:55:41+08:00</lastmod>
+    <loc>https://guozikun.xyz/tech/</loc>
+    <lastmod>2022-01-27T22:19:01+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/</loc>
-    <lastmod>2022-01-24T14:55:41+08:00</lastmod>
+    <lastmod>2022-01-27T22:19:01+08:00</lastmod>
+  </url><url>
+    <loc>https://guozikun.xyz/tech/linux%E5%B9%B3%E5%8F%B0%E4%B8%8Bgpu%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/</loc>
-    <lastmod>2022-01-20T20:30:32+08:00</lastmod>
+    <lastmod>2022-01-27T21:57:50+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%82%B2%E5%93%80/</loc>
-    <lastmod>2022-01-20T20:25:12+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/%E9%85%8D%E7%BD%AE%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E7%9A%84jupyter/</loc>
-    <lastmod>2022-01-20T15:52:36+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E6%97%8F%E9%A6%86%E6%B0%B4%E6%97%8F%E9%A6%86/</loc>
-    <lastmod>2022-01-20T18:35:13+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/v2ray_vps/</loc>
-    <lastmod>2022-01-17T22:19:51+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAminecraft%E6%9C%8D%E5%8A%A1%E5%99%A8-2/</loc>
-    <lastmod>2022-01-16T21:31:33+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAminecraft%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2022-01-16T21:00:23+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
-    <loc>https://guozikun.xyz/tech/caddy&#43;namesoil/</loc>
-    <lastmod>2022-01-15T16:26:06+08:00</lastmod>
+    <loc>https://guozikun.xyz/tech/use_hugo_build_static_website/</loc>
+    <lastmod>2022-01-27T21:54:38+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E6%BC%82%E6%B3%8A%E7%9A%84%E4%BA%BA/</loc>
-    <lastmod>2022-01-14T14:37:34+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E4%B9%8C%E6%89%98%E9%82%A6%E4%B8%8E%E4%B8%8A%E5%B8%9D/</loc>
-    <lastmod>2022-01-16T20:57:12+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/extern_expmodel/</loc>
-    <lastmod>2022-01-15T16:26:59+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/nlisanitycheck/</loc>
-    <lastmod>2022-01-12T10:19:14+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/meeting/</loc>
-    <lastmod>2022-01-15T16:27:14+08:00</lastmod>
-  </url><url>
-    <loc>https://guozikun.xyz/tech/vscode&#43;hugo/</loc>
-    <lastmod>2022-01-15T16:27:51+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%9C%9F%E5%BE%85/</loc>
-    <lastmod>2022-01-18T22:07:44+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/howtowritepaperspsenstation/</loc>
-    <lastmod>2022-01-12T10:20:26+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E6%A2%A6%E5%9B%9E%E9%87%9C%E5%B1%B1/</loc>
-    <lastmod>2022-01-13T17:27:45+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/letswriteaandroid/</loc>
-    <lastmod>2022-01-13T17:21:43+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E8%80%81%E5%AE%9E%E4%BA%BA/</loc>
-    <lastmod>2022-01-20T18:20:09+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E5%A0%82%E5%A0%82%E6%AD%A3%E6%AD%A3/</loc>
-    <lastmod>2022-01-12T20:39:25+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/miner/</loc>
-    <lastmod>2022-01-07T21:10:53+08:00</lastmod>
-  </url><url>
-    <loc>https://guozikun.xyz/tech/problemreview/</loc>
-    <lastmod>2022-01-12T10:20:43+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E7%A7%91%E5%AD%A6vs%E5%AE%97%E6%95%99/</loc>
-    <lastmod>2022-01-14T20:42:00+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/about/</loc>
-    <lastmod>2022-01-14T19:59:58+08:00</lastmod>
+    <lastmod>2022-01-27T21:45:15+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/%E7%AC%94%E8%AE%B0%E5%92%8Cdoc/</loc>
-    <lastmod>2022-01-15T16:29:07+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E6%90%AD%E7%AB%99%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2022-01-20T20:30:32+08:00</lastmod>
+    <lastmod>2022-01-27T21:57:50+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/helloworld/</loc>
-    <lastmod>2022-01-20T20:35:41+08:00</lastmod>
+    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/categories/</loc>
   </url><url>
