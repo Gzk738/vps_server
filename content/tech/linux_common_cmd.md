@@ -44,3 +44,19 @@ shutdown -r now # 立刻重启计算机 需要root
 reboot          # 立刻重启计算机 无需root
 ```
 
+查看文件夹大小
+```
+du [OPTION]... [FILE]...
+-h, --human-readable
+    以K，M，G为单位，显示文件的大小
+
+-s, --summarize
+    只显示总计的文件大小
+
+-S, --separate-dirs
+    显示时并不含其子文件夹的大小
+
+-d, --max-depth=N
+    显示子文件夹的深度（层级）
+eg du -hs /home/zikun/
+```
