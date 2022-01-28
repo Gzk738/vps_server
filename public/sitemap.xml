@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://guozikun.xyz/tech/install_java_17/</loc>
-    <lastmod>2022-01-28T15:12:38+08:00</lastmod>
-  </url><url>
     <loc>https://guozikun.xyz/tech/</loc>
-    <lastmod>2022-01-28T15:19:50+08:00</lastmod>
+    <lastmod>2022-01-28T15:52:53+08:00</lastmod>
+  </url><url>
+    <loc>https://guozikun.xyz/tech/install_java_17/</loc>
+    <lastmod>2022-01-28T15:52:00+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/</loc>
-    <lastmod>2022-01-28T15:19:50+08:00</lastmod>
+    <lastmod>2022-01-28T15:52:53+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/linux_common_cmd/</loc>
     <lastmod>2022-01-27T22:19:08+08:00</lastmod>
@@ -33,7 +33,7 @@
     <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/build_minecraft_client/</loc>
-    <lastmod>2022-01-28T15:19:50+08:00</lastmod>
+    <lastmod>2022-01-28T15:52:53+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/build_mincraft_server/</loc>
     <lastmod>2022-01-28T15:04:50+08:00</lastmod>

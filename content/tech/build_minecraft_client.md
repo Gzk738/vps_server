@@ -1,5 +1,5 @@
 ---
-title: "搭建一个minecraft服务(二)客户端"
+title: "如何连接到minecraft服务器"
 date: 2022-01-16T12:59:51Z
 draft: true
 ---
@@ -10,7 +10,7 @@ draft: true
 首先，对于linux的教程就不写了，懂得都懂 :-)
 # 第一步，安装java
 
-请使用java 1.17，具体请参考[如何在mac上安装最新版的java, https://guozikun.xyz/tech/如何在mac上安装最新版的java/](https://guozikun.xyz/tech/如何在mac上安装最新版的java/)
+请使用java 1.17，具体请参考[如何在mac上安装最新版的java, https://guozikun.xyz/tech/如何在mac上安装最新版的java/](https://guozikun.xyz/tech/install_java_17/)
 如果使用旧版本的java的话，只能支持到1.17，当然，服务器是支持旧版本登陆的。只是一些矿产会显示的有问题。譬如铜矿和铁矿会长成一个样。
 
 # 下载HMCL启动器
