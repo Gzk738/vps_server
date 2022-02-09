@@ -93,9 +93,9 @@ sudo ifconfig
 
 ## 用户和用户组
 ```
-sudo adduser gzk
+sudo adduser username
 
-sudo usermod -ag zikun wheel
+sudo usermod -aG sudo username
 ```
 
 ## WGET

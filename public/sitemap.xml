@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guozikun.xyz/life/</loc>
+    <lastmod>2022-02-09T15:44:38+08:00</lastmod>
+  </url><url>
+    <loc>https://guozikun.xyz/</loc>
+    <lastmod>2022-02-09T15:44:38+08:00</lastmod>
+  </url><url>
+    <loc>https://guozikun.xyz/life/%E4%B8%96%E4%BA%BA%E7%9A%86%E8%8B%A6/</loc>
+    <lastmod>2022-02-09T15:42:04+08:00</lastmod>
+  </url><url>
     <loc>https://guozikun.xyz/tech/</loc>
-    <lastmod>2022-01-28T15:52:53+08:00</lastmod>
+    <lastmod>2022-02-04T16:29:07+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/install_java_17/</loc>
     <lastmod>2022-01-28T15:52:00+08:00</lastmod>
   </url><url>
-    <loc>https://guozikun.xyz/</loc>
-    <lastmod>2022-01-28T15:52:53+08:00</lastmod>
-  </url><url>
     <loc>https://guozikun.xyz/tech/linux_common_cmd/</loc>
-    <lastmod>2022-01-27T22:19:08+08:00</lastmod>
+    <lastmod>2022-01-30T18:20:22+08:00</lastmod>
   </url><url>
-    <loc>https://guozikun.xyz/tech/linux%E5%B9%B3%E5%8F%B0%E4%B8%8Bgpu%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2022-01-27T11:18:28+08:00</lastmod>
-  </url><url>
-    <loc>https://guozikun.xyz/life/</loc>
-    <lastmod>2022-01-27T23:47:05+08:00</lastmod>
+    <loc>https://guozikun.xyz/tech/pytorch_note/</loc>
+    <lastmod>2022-02-04T16:29:07+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/programmer_sorrow/</loc>
     <lastmod>2022-01-27T23:39:19+08:00</lastmod>
@@ -36,7 +39,7 @@
     <lastmod>2022-01-28T15:52:53+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/build_mincraft_server/</loc>
-    <lastmod>2022-01-28T15:04:50+08:00</lastmod>
+    <lastmod>2022-01-28T15:58:04+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/use_hugo_build_static_website/</loc>
     <lastmod>2022-01-27T21:54:38+08:00</lastmod>
@@ -72,7 +75,7 @@
     <lastmod>2022-01-27T23:40:20+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/upright/</loc>
-    <lastmod>2022-01-27T23:41:43+08:00</lastmod>
+    <lastmod>2022-02-09T15:44:38+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/how_become_miner/</loc>
     <lastmod>2022-01-27T23:39:36+08:00</lastmod>

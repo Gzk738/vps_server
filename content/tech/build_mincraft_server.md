@@ -1,5 +1,5 @@
 ---
-title: "搭建一个minecraft服务器(一) 服务端"
+title: "搭建一个minecraft服务器"
 date: 2022-01-15T09:21:42Z
 draft: true
 ---
