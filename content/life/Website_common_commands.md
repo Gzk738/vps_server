@@ -44,21 +44,28 @@ class HelloWorld {
 # Align
 ```html
 <h1 align = "right">文字右对齐</h1>
+<right>文字右对齐<right/>
 ```
 
 <h1 align = "right">文字右对齐</h1>
 
+<right>文字右对齐<right/>
+
 ```html
 <h1 align = "left">文字左对齐</h1>
+<left>文字左对齐<left/>
 ```
 
 <h1 align = "left">文字左对齐</h1>
+<left>文字左对齐<left/>
 
 ```html
 <h1 align = "center">文字居中</h1>
+<center>文字居中<center/>
 ```
 
 <h1 align = "center">文字居中</h1>
+<center>文字居中<center/>
 
 # 引用与强调
 ```

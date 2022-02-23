@@ -3,22 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://guozikun.xyz/life/</loc>
-    <lastmod>2022-02-09T15:44:38+08:00</lastmod>
+    <lastmod>2022-02-23T21:21:13+08:00</lastmod>
+  </url><url>
+    <loc>https://guozikun.xyz/life/normal_life/</loc>
+    <lastmod>2022-02-23T21:08:03+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/</loc>
-    <lastmod>2022-02-09T15:44:38+08:00</lastmod>
+    <lastmod>2022-02-23T21:21:13+08:00</lastmod>
   </url><url>
-    <loc>https://guozikun.xyz/life/%E4%B8%96%E4%BA%BA%E7%9A%86%E8%8B%A6/</loc>
-    <lastmod>2022-02-09T15:42:04+08:00</lastmod>
+    <loc>https://guozikun.xyz/life/gratuate/</loc>
+    <lastmod>2022-02-23T21:21:13+08:00</lastmod>
+  </url><url>
+    <loc>https://guozikun.xyz/life/please_smile/</loc>
+    <lastmod>2022-02-09T15:57:35+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/</loc>
-    <lastmod>2022-02-04T16:29:07+08:00</lastmod>
+    <lastmod>2022-02-12T15:19:55+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/install_java_17/</loc>
     <lastmod>2022-01-28T15:52:00+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/linux_common_cmd/</loc>
-    <lastmod>2022-01-30T18:20:22+08:00</lastmod>
+    <lastmod>2022-02-12T15:19:55+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/pytorch_note/</loc>
     <lastmod>2022-02-04T16:29:07+08:00</lastmod>
@@ -90,7 +96,7 @@
     <lastmod>2022-01-27T11:18:28+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/website_common_commands/</loc>
-    <lastmod>2022-01-27T23:42:47+08:00</lastmod>
+    <lastmod>2022-02-09T15:50:34+08:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/helloworld/</loc>
     <lastmod>2022-01-27T11:18:28+08:00</lastmod>

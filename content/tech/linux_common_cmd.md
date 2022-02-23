@@ -98,10 +98,15 @@ sudo adduser username
 sudo usermod -aG sudo username
 ```
 
-## WGET
+## WGET # install
 ```
 wget file_url
 dpkg -i file_url
 ```
 
+# 查看配置
+```
+watch -n.1 "grep \"^[c]pu MHz\" /proc/cpuinfo" #查看cpu频率
+wget -qO- yabs.sh | bash -s -- -i              # 跑分
+```
 
