@@ -110,3 +110,10 @@ watch -n.1 "grep \"^[c]pu MHz\" /proc/cpuinfo" #查看cpu频率
 wget -qO- yabs.sh | bash -s -- -i              # 跑分
 ```
 
+# 查询软件版本号
+```
+cat /proc/version
+```
+➜  vps_server git:(main) ✗ cat /proc/version
+
+Linux version 4.19.0-16-cloud-amd64 (debian-kernel@lists.debian.org) (gcc version 8.3.0 (Debian 8.3.0-6)) #1 SMP Debian 4.19.181-1 (2021-03-19)
