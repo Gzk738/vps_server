@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guozikun.xyz/life/</loc>
+    <lastmod>2023-06-24T01:08:54+09:00</lastmod>
+  </url><url>
+    <loc>https://guozikun.xyz/life/%E5%90%B5%E6%9E%B6/</loc>
+    <lastmod>2023-06-24T01:08:54+09:00</lastmod>
+  </url><url>
+    <loc>https://guozikun.xyz/</loc>
+    <lastmod>2023-06-24T01:08:54+09:00</lastmod>
+  </url><url>
     <loc>https://guozikun.xyz/tech/</loc>
     <lastmod>2023-04-23T22:17:41+09:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/tech/cloudflare-blog/</loc>
     <lastmod>2023-04-23T22:10:12+09:00</lastmod>
-  </url><url>
-    <loc>https://guozikun.xyz/</loc>
-    <lastmod>2023-04-23T23:20:02+09:00</lastmod>
-  </url><url>
-    <loc>https://guozikun.xyz/life/</loc>
-    <lastmod>2023-04-23T23:20:02+09:00</lastmod>
   </url><url>
     <loc>https://guozikun.xyz/life/%E8%BD%A6%E7%9A%84%E5%89%90%E8%B9%AD/</loc>
     <lastmod>2023-04-23T22:44:09+09:00</lastmod>
